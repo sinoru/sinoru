@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div class="loading-message">
+<div align="center">
 	<img alt="" src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif" width="32" height="32">
-	<p class="text-gray my-2 mb-0">Loading sinoru...</p>
+	<p>Loading sinoru...</p>
 </div>
