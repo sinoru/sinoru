@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-	<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTYgMTYiIGZpbGw9Im5vbmUiIHN0eWxlPSJib3gtc2l6aW5nOiBjb250ZW50LWJveDsgY29sb3I6IHZhcigtLWNvbG9yLWljb24tcHJpbWFyeSk7IiB3aWR0aD0iMzIiIGhlaWdodD0iMzIiPjxjaXJjbGUgY3g9IjgiIGN5PSI4IiByPSI3IiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLW9wYWNpdHk9IjAuMjUiIHN0cm9rZS13aWR0aD0iMiIgdmVjdG9yLWVmZmVjdD0ibm9uLXNjYWxpbmctc3Ryb2tlIj48L2NpcmNsZT48cGF0aCBkPSJNMTUgOGE3LjAwMiA3LjAwMiAwIDAwLTctNyIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiB2ZWN0b3ItZWZmZWN0PSJub24tc2NhbGluZy1zdHJva2UiPjxhbmltYXRlVHJhbnNmb3JtIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIgdHlwZT0icm90YXRlIiBmcm9tPSIwIDggOCIgdG89IjM2MCA4IDgiIGR1cj0iMXMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIj48L2FuaW1hdGVUcmFuc2Zvcm0+PC9wYXRoPjwvc3ZnPg==" width="32" height="32">
+	<img alt="" src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif" width="32" height="32">
 	<p>Loading sinoru...</p>
 </div>
