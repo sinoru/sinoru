@@ -1,3 +1,12 @@
+<div align="center">
+	<img src="./header.png">
+</div>
+
+### Hi there 👋 I'm Jaehong Kang.
+
+- 🔭 I’m currently working on iOS App, Framework Development.
+- 📫 How to reach me: [Telegram (sinoru)](https://t.me/sinoru)
+
 <!--
 ### Hi there 👋
 
@@ -15,8 +24,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div align="center">
-	<img alt="" src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif" width="32" height="32">
-	<p>Loading sinoru...</p>
-</div>
