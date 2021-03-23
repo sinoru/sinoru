@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm Jaehong Kang.
 
-![sinoru's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinoru&show_icons=true&count_private=true)
-
 - 🔭 I’m currently working on iOS App, Framework Development.
 - 🌱 I’m currently learning SwiftUI, Combine, ML.
 - 📫 How to reach me: Telegram ([sinoru](https://t.me/sinoru)), LINE ([sinoru39](https://line.me/ti/p/I1sKXzmDSP))
